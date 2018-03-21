@@ -1,0 +1,23 @@
+package com.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/home")
+public class FirstSpringMVCController {
+	@RequestMapping("/hello")
+	public String sayHello() {
+		return "hello";
+	}
+	
+	@RequestMapping("/welcome")
+	public String sendWelcome(Model m) {
+		m.addAttribute("myWelcome1", "Hello from Spring MVC Model Welcome1");
+		m.addAttribute("myWelcome2", "Hello from Spring MVC Model Welcome2");
+		m.addAttribute("myWelcome3", "Hello from Spring MVC Model Welcome3");
+		
+		return "kitchen";
+	}
+}

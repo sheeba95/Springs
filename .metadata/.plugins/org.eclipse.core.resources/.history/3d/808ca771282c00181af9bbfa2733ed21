@@ -1,0 +1,5 @@
+package com.springmvc.hibernate.controller;
+
+public class EmployeeController {
+
+}
