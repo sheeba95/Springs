@@ -3,7 +3,7 @@
   <display-name>002_SpringMVCHibernate</display-name>
   <welcome-file-list>
 
-    <welcome-file>home.spring</welcome-file>
+    <welcome-file>home.html</welcome-file>
     
   </welcome-file-list>
   
@@ -16,7 +16,7 @@
   
   <servlet-mapping>
   		<servlet-name>springhibernate</servlet-name>
-  		<url-pattern>*.spring</url-pattern>
+  		<url-pattern>*.html</url-pattern>
   </servlet-mapping>
   
   

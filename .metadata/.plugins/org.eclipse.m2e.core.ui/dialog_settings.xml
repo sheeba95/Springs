@@ -55,14 +55,26 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="001_SpringMVCFormExample"/>
+			<item value="022_SpringMVCFormExample"/>
+			<item value="022_SpringMVCForm"/>
+			<item value="001_SpringMVCForm"/>
 			<item value="002_SpringMVCHibernate"/>
 			<item value="002_SpringMVCFormExample"/>
 		</list>
 		<list key="name">
+			<item value="001_SpringMVCFormExample"/>
+			<item value="022_SpringMVCFormExample"/>
+			<item value="022_SpringMVCForm"/>
+			<item value="001_SpringMVCForm"/>
 			<item value="SpringMVCHibernate"/>
 			<item value="002_SpringMVCFormExample"/>
 		</list>
 		<list key="artifactId">
+			<item value="001_SpringMVCFormExample"/>
+			<item value="022_SpringMVCFormExample"/>
+			<item value="022_SpringMVCForm"/>
+			<item value="001_SpringMVCForm"/>
 			<item value="002_SpringMVCHibernate"/>
 			<item value="002_SpringMVCFormExample"/>
 		</list>

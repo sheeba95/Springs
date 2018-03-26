@@ -4,9 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Success</title>
 </head>
 <body>
-		<h1>Employee is saved to the database</h1>
+<a href="empform.html">Add Employee</a>
+	<a href="viewEmployee.html">View Employee</a>
+	
+
+	<h1>Employee is saved to the database</h1>
 </body>
 </html>

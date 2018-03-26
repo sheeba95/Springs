@@ -1,4 +1,2 @@
 #Tomcat publish data
-#Wed Mar 21 18:03:52 IST 2018
-org.eclipse.jst.jee.server\:/binary\:D\:\\maven_repo\\org\\springframework\\spring-web\\4.2.0.RELEASE\\spring-web-4.2.0.RELEASE.jar=WEB-INF/lib/spring-web-4.2.0.RELEASE.jar
-org.eclipse.jst.jee.server\:/binary\:D\:\\maven_repo\\org\\springframework\\spring-web\\4.3.7.RELEASE\\spring-web-4.3.7.RELEASE.jar=WEB-INF/lib/spring-web-4.3.7.RELEASE.jar
+#Mon Mar 26 12:14:09 IST 2018
