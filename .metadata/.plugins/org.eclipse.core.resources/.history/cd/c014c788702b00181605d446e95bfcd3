@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com"
-<display-name>002_SpringMVCHibernate</display-name>
-<welcome-file-list>
-	<welcome-file>index.html</welcome-file>
-	
-</welcome-file-list>

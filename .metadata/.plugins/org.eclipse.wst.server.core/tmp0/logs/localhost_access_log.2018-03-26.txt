@@ -62,3 +62,5 @@
 0:0:0:0:0:0:0:1 - - [26/Mar/2018:12:17:25 +0530] "GET /002_SpringMVCHibernate/updateEmployee.html?employeeId=2 HTTP/1.1" 200 1026
 0:0:0:0:0:0:0:1 - - [26/Mar/2018:12:17:41 +0530] "POST /002_SpringMVCHibernate/saveEmployee.html HTTP/1.1" 200 392
 0:0:0:0:0:0:0:1 - - [26/Mar/2018:12:17:43 +0530] "GET /002_SpringMVCHibernate/viewEmployee.html HTTP/1.1" 200 1255
+127.0.0.1 - - [26/Mar/2018:15:48:13 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [26/Mar/2018:16:39:57 +0530] "GET / HTTP/1.1" 404 951

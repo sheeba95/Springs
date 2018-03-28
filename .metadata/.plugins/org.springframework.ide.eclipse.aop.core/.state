@@ -5,7 +5,8 @@
 <aop-reference advice-type="AROUND" bean="1:BeansModel|2:002_SpringMVCHibernate|3:WebContent/WEB-INF/springhibernate-servlet.xml|7:beans:12|8:employeeService:12" bean-file="/002_SpringMVCHibernate/WebContent/WEB-INF/springhibernate-servlet.xml" bean-start-line="12" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/002_SpringMVCHibernate/WebContent/WEB-INF/springhibernate-servlet.xml" source="=002_SpringMVCHibernate/D:\/maven_repo\/org\/springframework\/spring-tx\/4.2.0.RELEASE\/spring-tx-4.2.0.RELEASE.jar&lt;org.springframework.transaction.interceptor(TransactionInterceptor.class[TransactionInterceptor~invoke~Lorg.aopalliance.intercept.MethodInvocation;" source-start-line="-1" target="=002_SpringMVCHibernate/src&lt;com.springmvc.hibernate.service{EmployeeService.java[EmployeeService~saveEmployee~QEmployeeEntity;" target-start-line="19"/>
 </aspect-definition>
 </aop-project>
+<aop-project name="005_SpringBoot_MYSQL"/>
+<aop-project name="004_SpringBoot_HelloWorld"/>
 <aop-project name="014springboot"/>
 <aop-project name="001_SpringMVCFormExample"/>
-<aop-project name="026_SpringMVCHibernate"/>
 </aop-reference-model>

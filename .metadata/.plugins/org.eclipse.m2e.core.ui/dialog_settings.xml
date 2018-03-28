@@ -2,17 +2,23 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.springboot.data"/>
+			<item value="com.springboot.one"/>
 			<item value="com.spring.hibernate"/>
 			<item value="com.springboot.first"/>
 			<item value="SpringCoreMaven"/>
 		</list>
 		<list key="name">
+			<item value="005_SpringBoot_MYSQL"/>
+			<item value="004_SpringBoot_HelloWorld"/>
 			<item value="SpringMVCHibernate"/>
 			<item value="SpringMVC_Hibernate"/>
 			<item value="014springboot"/>
 			<item value="SpringCore Maven"/>
 		</list>
 		<list key="artifactId">
+			<item value="005_SpringBoot_MYSQL"/>
+			<item value="004_SpringBoot_HelloWorld"/>
 			<item value="001_SpringMVCHibernate"/>
 			<item value="003_SpringMVC_Hibernate"/>
 			<item value="014springboot"/>
@@ -87,6 +93,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\681183\Documents\workspace-sts-3.9.0.RELEASE\015_springmvc\WebContent\WEB-INF\HelloSpringMVC-servlet.xml"/>
 			<item value="C:\Users\681183\Documents\workspace-sts-3.9.0.RELEASE\002_SpringMVCFormExample"/>
 			<item value="C:\Users\681183\Documents\workspace-sts-3.9.0.RELEASE\012MavenSpringCore\pom.xml"/>
 			<item value="C:\Users\681183\Documents\workspace-sts-3.9.0.RELEASE\springtoolsuite"/>
