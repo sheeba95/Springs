@@ -9,4 +9,5 @@
 <aop-project name="004_SpringBoot_HelloWorld"/>
 <aop-project name="014springboot"/>
 <aop-project name="001_SpringMVCFormExample"/>
+<aop-project name="SpringBootThymeLeaf"/>
 </aop-reference-model>

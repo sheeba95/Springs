@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.example"/>
 			<item value="com.springboot.data"/>
 			<item value="com.springboot.one"/>
 			<item value="com.spring.hibernate"/>
@@ -9,6 +10,7 @@
 			<item value="SpringCoreMaven"/>
 		</list>
 		<list key="name">
+			<item value="SpringBootThymeLeaf"/>
 			<item value="005_SpringBoot_MYSQL"/>
 			<item value="004_SpringBoot_HelloWorld"/>
 			<item value="SpringMVCHibernate"/>
@@ -17,6 +19,7 @@
 			<item value="SpringCore Maven"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringBootThymeLeaf"/>
 			<item value="005_SpringBoot_MYSQL"/>
 			<item value="004_SpringBoot_HelloWorld"/>
 			<item value="001_SpringMVCHibernate"/>
@@ -61,6 +64,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="SpringBootThymeLeaf"/>
 			<item value="026_SpringMVCHibernate"/>
 			<item value="001_SpringMVCFormExample"/>
 			<item value="022_SpringMVCFormExample"/>
@@ -70,6 +74,7 @@
 			<item value="002_SpringMVCFormExample"/>
 		</list>
 		<list key="name">
+			<item value="SpringBootThymeLeaf"/>
 			<item value="026_SpringMVCHibernate"/>
 			<item value="001_SpringMVCFormExample"/>
 			<item value="022_SpringMVCFormExample"/>
@@ -79,6 +84,7 @@
 			<item value="002_SpringMVCFormExample"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringBootThymeLeaf"/>
 			<item value="026_SpringMVCHibernate"/>
 			<item value="001_SpringMVCFormExample"/>
 			<item value="022_SpringMVCFormExample"/>
